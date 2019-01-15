@@ -1832,7 +1832,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #888b1f;
+  background: #d0c9ed;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2907,9 +2907,6 @@ hr {
     text-align: center;
   }
 }
-body {
-  background: url("/images/backup.jpg");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: 50% 50%;
+img.img-topic {
+  width: 100%;
 }
