@@ -99,7 +99,7 @@
 <meta property="og:site_name" content="SteveYoung&#39;s Blog">
 <meta property="og:description" content="Just get busy living or Just get busy dying.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-01-16T07:50:28.279Z">
+<meta property="og:updated_time" content="2019-01-16T08:09:16.036Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="时间表">
 <meta name="twitter:description" content="Just get busy living or Just get busy dying.">
@@ -246,7 +246,7 @@
         <li class="menu-item menu-item-爱生活">
           <a href="/live/" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-live"></i> <br>
+              <i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br>
             
             爱生活
           </a>
@@ -363,7 +363,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">2</span>
+                  <span class="site-state-item-count">1</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -438,8 +438,20 @@
 
   <div class="theme-info">
     <div class="powered-by"></div>
-      <span class="post-count">博客全站共449字</span>
+      <span class="post-count">博客全站共449字 | </span>
   </div>
+  
+  <span> </span>
+  <span id="showDays"></span>
+  
+  <script>
+    var birthDay = new Date('31/12/2018');
+    var now = new Date();
+    var duration = now.getTime() - birthDay.getTime();
+    var total = Math.floor(duration / (1000 * 60 * 60 * 24));
+	total = 520;
+    document.getElementById('showDays').innerHTML = '本站已运行' + total + '天';
+  </script>
   
   <!--
   
