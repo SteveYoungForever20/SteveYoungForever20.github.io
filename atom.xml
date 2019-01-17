@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-17T06:44:42.186Z</updated>
+  <updated>2019-01-17T06:09:10.430Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>测试文章</title>
-    <link href="http://yoursite.com/2019/01/14/first-bolgs/"/>
-    <id>http://yoursite.com/2019/01/14/first-bolgs/</id>
-    <published>2019-01-13T16:00:00.000Z</published>
-    <updated>2019-01-17T06:44:42.186Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>本文是一篇测试文章，截取自马丁路德金的《I have a Dream》。</code></pre><h1 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a>测试标题1</h1><p>Five score years ago, a great American, in whose symbolic shadow we stand<br>today, signed the Emancipation Proclamation. This momentous decree came as a<br>great beacon light of hope to millions of Negro slaves who had been seared in<br>the flames of withering injustice. It came as a joyous daybreak to end the<br>long night of their captivity.</p><h1 id="测试标题2"><a href="#测试标题2" class="headerlink" title="测试标题2"></a>测试标题2</h1><p>But one hundred years later, the Negro still is not free. One hundred years<br>later, the life of the Negro is still sadly crippled by the manacles of<br>segregation and the chains of discrimination. One hundred years later, the<br>Negro lives on a lonely island of poverty in the midst of a vast ocean of<br>material prosperity. One hundred years later, the Negro is still languished<br>in the corners of American society and finds himself an exile in his own<br>land. And so we’ve come here today to dramatize a shameful condition.</p><h1 id="测试标题3"><a href="#测试标题3" class="headerlink" title="测试标题3"></a>测试标题3</h1><p>In a sense we’ve come to our nation’s capital to cash a check. When the<br>architects of our republic wrote the magnificent words of the Constitution<br>and the Declaration of Independence, they were signing a promissory note to<br>which every American was to fall heir. This note was a promise that all men,<br>yes, black men as well as white men, would be guaranteed the “unalienable<br>Rights” of “Life, Liberty and the pursuit of Happiness.” It is obvious today<br>that America has defaulted on this promissory note, insofar as her citizens<br>of color are concerned. Instead of honoring this sacred obligation, America<br>has given the Negro people a bad check, a check which has come back marked<br>“insufficient funds.”</p><h1 id="测试标题4"><a href="#测试标题4" class="headerlink" title="测试标题4"></a>测试标题4</h1><p>In a sense we’ve come to our nation’s capital to cash a check. When the<br>architects of our republic wrote the magnificent words of the Constitution<br>and the Declaration of Independence, they were signing a promissory note to<br>which every American was to fall heir. This note was a promise that all men,<br>yes, black men as well as white men, would be guaranteed the “unalienable<br>Rights” of “Life, Liberty and the pursuit of Happiness.” It is obvious<br>today that America has defaulted on this promissory note, insofar as her<br>citizens of color are concerned. Instead of honoring this sacred obligation,<br>America has given the Negro people a bad check, a check which has come back<br>marked “insufficient funds.”</p><h1 id="测试标题5"><a href="#测试标题5" class="headerlink" title="测试标题5"></a>测试标题5</h1><p>It would be fatal for the nation to overlook the urgency of the moment.<br>This sweltering summer of the Negro’s legitimate discontent will not pass<br>until there is an invigorating autumn of freedom and equality. Nineteen<br>sixty-three is not an end, but a beginning. And those who hope that the<br>Negro needed to blow off steam and will now be content will have a rude<br>awakening if the nation returns to business as usual. And there will be<br>neither rest nor tranquility in America until the Negro is granted his<br>itizenship rights. The whirlwinds of revolt will continue to shake the<br>foundations of our nation until the bright day of justice emerges.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;pre&gt;&lt;code&gt;本文是一篇测试文章，截取自马丁路德金的《I have a Dream》。
-&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&quot;测试标题1&quot;&gt;&lt;a href=&quot;#测试标题1&quot; class=&quot;headerlink&quot; title=&quot;测试标题1&quot;&gt;&lt;/a&gt;测试标题1&lt;/h1&gt;
-      
-    
-    </summary>
-    
-    
-      <category term="live" scheme="http://yoursite.com/tags/live/"/>
-    
-  </entry>
   
   <entry>
     <title>青春</title>
@@ -55,6 +31,30 @@
       
         &lt;pre&gt;&lt;code&gt;塞缪尔.厄尔曼
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;人生匆匆，青春不是易逝的一段。青春是一种永恒的心态。满脸红光，嘴唇红润，腿脚灵活，&lt;br&gt;这并不是青春的全部。真正的青春啊，它是一种坚强的意志，是一种想象力的高品位，是感情的&lt;br&gt;充沛饱满，是生命之泉的清澈常
+      
+    
+    </summary>
+    
+    
+      <category term="live" scheme="http://yoursite.com/tags/live/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://yoursite.com/2019/01/14/first-bolgs/"/>
+    <id>http://yoursite.com/2019/01/14/first-bolgs/</id>
+    <published>2019-01-13T16:00:00.000Z</published>
+    <updated>2019-01-17T06:44:42.186Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>本文是一篇测试文章，截取自马丁路德金的《I have a Dream》。</code></pre><h1 id="测试标题1"><a href="#测试标题1" class="headerlink" title="测试标题1"></a>测试标题1</h1><p>Five score years ago, a great American, in whose symbolic shadow we stand<br>today, signed the Emancipation Proclamation. This momentous decree came as a<br>great beacon light of hope to millions of Negro slaves who had been seared in<br>the flames of withering injustice. It came as a joyous daybreak to end the<br>long night of their captivity.</p><h1 id="测试标题2"><a href="#测试标题2" class="headerlink" title="测试标题2"></a>测试标题2</h1><p>But one hundred years later, the Negro still is not free. One hundred years<br>later, the life of the Negro is still sadly crippled by the manacles of<br>segregation and the chains of discrimination. One hundred years later, the<br>Negro lives on a lonely island of poverty in the midst of a vast ocean of<br>material prosperity. One hundred years later, the Negro is still languished<br>in the corners of American society and finds himself an exile in his own<br>land. And so we’ve come here today to dramatize a shameful condition.</p><h1 id="测试标题3"><a href="#测试标题3" class="headerlink" title="测试标题3"></a>测试标题3</h1><p>In a sense we’ve come to our nation’s capital to cash a check. When the<br>architects of our republic wrote the magnificent words of the Constitution<br>and the Declaration of Independence, they were signing a promissory note to<br>which every American was to fall heir. This note was a promise that all men,<br>yes, black men as well as white men, would be guaranteed the “unalienable<br>Rights” of “Life, Liberty and the pursuit of Happiness.” It is obvious today<br>that America has defaulted on this promissory note, insofar as her citizens<br>of color are concerned. Instead of honoring this sacred obligation, America<br>has given the Negro people a bad check, a check which has come back marked<br>“insufficient funds.”</p><h1 id="测试标题4"><a href="#测试标题4" class="headerlink" title="测试标题4"></a>测试标题4</h1><p>In a sense we’ve come to our nation’s capital to cash a check. When the<br>architects of our republic wrote the magnificent words of the Constitution<br>and the Declaration of Independence, they were signing a promissory note to<br>which every American was to fall heir. This note was a promise that all men,<br>yes, black men as well as white men, would be guaranteed the “unalienable<br>Rights” of “Life, Liberty and the pursuit of Happiness.” It is obvious<br>today that America has defaulted on this promissory note, insofar as her<br>citizens of color are concerned. Instead of honoring this sacred obligation,<br>America has given the Negro people a bad check, a check which has come back<br>marked “insufficient funds.”</p><h1 id="测试标题5"><a href="#测试标题5" class="headerlink" title="测试标题5"></a>测试标题5</h1><p>It would be fatal for the nation to overlook the urgency of the moment.<br>This sweltering summer of the Negro’s legitimate discontent will not pass<br>until there is an invigorating autumn of freedom and equality. Nineteen<br>sixty-three is not an end, but a beginning. And those who hope that the<br>Negro needed to blow off steam and will now be content will have a rude<br>awakening if the nation returns to business as usual. And there will be<br>neither rest nor tranquility in America until the Negro is granted his<br>itizenship rights. The whirlwinds of revolt will continue to shake the<br>foundations of our nation until the bright day of justice emerges.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;本文是一篇测试文章，截取自马丁路德金的《I have a Dream》。
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&quot;测试标题1&quot;&gt;&lt;a href=&quot;#测试标题1&quot; class=&quot;headerlink&quot; title=&quot;测试标题1&quot;&gt;&lt;/a&gt;测试标题1&lt;/h1&gt;
       
     
     </summary>
