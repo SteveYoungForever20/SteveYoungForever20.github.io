@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff4bff;
+  background: #4557ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3006,6 +3006,7 @@ hr {
   font-size: 30px;
   font-family: "SimSun";
   font-weight: bolder;
+  color: #000;
 }
 .blockquote-center p,
 .page-home .post-type-quote blockquote p,
@@ -3024,7 +3025,8 @@ hr {
 }
 .footer {
   font-size: 18px;
-  font-family: "Microsoft YaHei";
+  font-family: "SimSon";
+  font-weight: bolder;
   background: rgba(255,255,255,0);
   color: #000;
 }
