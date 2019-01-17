@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #cb7cff;
+  background: #45f549;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2975,6 +2975,7 @@ hr {
 }
 .header {
   background: rgba(255,255,255,0.8) none repeat scroll !important;
+  box-shadow: 0px 0px 1px #000;
 }
 .sidebar {
   box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0);
