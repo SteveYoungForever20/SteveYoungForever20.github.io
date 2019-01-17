@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ecd6ba;
+  background: #3effff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3030,9 +3030,9 @@ hr {
   text-align: center;
 }
 .footer {
-  font-size: 14px;
+  font-size: 10px;
   font-family: "SimSon";
-  font-weight: bolder;
+  font-weight: normal;
   background: rgba(255,255,255,0);
   color: #000;
 }
