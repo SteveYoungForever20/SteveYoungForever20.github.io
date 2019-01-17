@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #0358ff;
+  background: #ffff0b;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2919,6 +2919,20 @@ hr {
   margin-top: 15px;
   padding: 0px;
 }
+.site-meta .site-title {
+  line-height: 10px;
+}
+.site-meta {
+  float: left;
+  margin-left: 10px;
+  line-height: nromal;
+}
+.site-meta .site-title {
+  font-size: 25px;
+  font-weight: bolder;
+  font-family: "Microsoft YaHei";
+  color: #000;
+}
 .logo-text {
   width: auto;
   color: #000;
@@ -2937,7 +2951,9 @@ hr {
   color: #000;
 }
 .menu .menu-item a {
-  font-size: 15px;
+  font-size: 25px;
+  font-family: "Microsoft YaHei";
+  color: #000;
 }
 .main-inner {
   width: 900px;
@@ -2946,32 +2962,37 @@ hr {
   background: rgba(255,255,255,0.8) none repeat scroll !important;
 }
 .sidebar {
-  box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0.5);
-  background-color: rgba(0,0,0,0.75);
+  box-shadow: inset 0px 0px 10px 0px rgba(0,0,0,0);
+  background-color: rgba(255,255,255,0);
 }
 .sidebar-inner {
   margin-top: 30px;
 }
-.sidebar-nav li {
+.site-author-name {
+  margin: 5px 0 0;
+  text-align: center;
+  color: #000;
+  font-weight: bolder;
+  font-size: 22px;
+  font-family: "Microsoft YaHei";
+}
+.site-description {
+  margin-top: 5px;
+  text-align: center;
   font-size: 18px;
-  font-weight: bold;
-  color: #07b39b;
-}
-.sidebar-nav li:hover {
-  color: #a166ab;
-}
-.sidebar-nav .sidebar-nav-active {
-  color: #07b39b;
-  border-bottom-color: #a166ab;
-  border-bottom-width: 1.5px;
-}
-.sidebar-nav .sidebar-nav-active:hover {
-  color: #07b39b;
+  font-weight: bolder;
+  font-family: "Microsoft YaHei";
+  color: #000;
 }
 .site-overview {
   line-height: 1.3;
 }
+.footer-inner {
+  text-align: center;
+}
 .footer {
+  font-size: 18px;
+  font-family: "Microsoft YaHei";
   background: rgba(255,255,255,0);
   color: #000;
 }
