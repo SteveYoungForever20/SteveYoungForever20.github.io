@@ -496,7 +496,7 @@ pre,
 }
 pre,
 code {
-  font-family: Menlo, Monaco, Consolas, 'PT Mono', "SimSun", monospace;
+  font-family: 'PT Mono', consolas, Menlo, 'Noto Serif SC', "SimSun", sans-serif, monospace;
 }
 code {
   padding: 2px 4px;
@@ -1134,7 +1134,7 @@ pre .javascript .function {
   line-height: 36px;
   font-size: 20px;
   font-weight: normal;
-  font-family: 'Lobster Two', 'Monda', "SimSun", sans-serif;
+  font-family: 'Lobster Two', 'Noto Serif SC', "SimSun", sans-serif;
 }
 .site-subtitle {
   margin-top: 10px;
@@ -1222,7 +1222,7 @@ pre .javascript .function {
   opacity: 0;
 }
 .post-body {
-  font-family: 'Monda', "SimSun", sans-serif;
+  font-family: 'Noto Serif SC', "SimSun", sans-serif;
 }
 @media (max-width: 767px) {
   .post-body {
@@ -1500,7 +1500,7 @@ pre .javascript .function {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #999;
-  font-family: 'Monda', "SimSun", sans-serif;
+  font-family: 'Noto Serif SC', "SimSun", sans-serif;
   font-size: 12px;
   text-align: center;
 }
@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ed3c17;
+  background: #6fba2e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2930,7 +2930,7 @@ hr {
 .site-meta .site-title {
   font-size: 25px;
   font-weight: bolder;
-  font-family: "Microsoft YaHei";
+  font-family: "Blackletter";
   color: #000;
 }
 .logo-text {
@@ -2952,7 +2952,7 @@ hr {
 }
 .menu .menu-item a {
   font-size: 20px;
-  font-family: "SimSun";
+  font-family: "Noto Serif SC";
   font-weight: bolder;
   color: #000;
 }
@@ -2962,15 +2962,15 @@ hr {
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
   color: #000;
-  font-family: "SimSon";
-  font-size: 14px;
+  font-family: "Noto Serif SC";
+  font-size: 11px;
   font-weight: normal;
   text-align: left;
 }
 .posts-expand .post-body {
   font-size: 18px;
-  font-family: "SimSun";
-  font-weight: bolder;
+  font-family: "Noto Serif SC";
+  font-weight: normal;
   color: #000;
 }
 .header {
@@ -3007,8 +3007,8 @@ hr {
 }
 .posts-expand .post-title {
   font-size: 30px;
-  font-family: "SimSun";
-  font-weight: bolder;
+  font-family: "Noto Serif SC";
+  font-weight: normal;
   color: #000;
 }
 .blockquote-center p,
@@ -3019,9 +3019,9 @@ hr {
 .page-post-detail .post-type-quote blockquote div {
   text-align: center;
   font-size: 16px;
-  font-family: "SimSun";
+  font-family: "Noto Serif SC";
   color: #000;
-  font-weight: bolder;
+  font-weight: normal;
 }
 .text-center {
   text-align: center;
@@ -3031,7 +3031,7 @@ hr {
 }
 .footer {
   font-size: 10px;
-  font-family: "SimSon";
+  font-family: "Noto Serif SC";
   font-weight: normal;
   background: rgba(255,255,255,0);
   color: #000;
