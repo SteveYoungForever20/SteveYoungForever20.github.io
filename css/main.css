@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #630af6;
+  background: #0e1c7f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2924,7 +2924,7 @@ hr {
 }
 .site-meta {
   float: left;
-  margin-left: 10px;
+  margin-left: 100px;
   line-height: nromal;
 }
 .site-meta .site-title {
@@ -2947,6 +2947,7 @@ hr {
   text-align: center;
   margin-top: 0px;
   margin-bottom: 0px;
+  margin-right: 50px;
   padding: 5px;
   color: #000;
 }
