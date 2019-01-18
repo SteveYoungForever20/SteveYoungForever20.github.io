@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #63032e;
+  background: #ff70ff;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2930,7 +2930,7 @@ hr {
 .site-meta .site-title {
   font-size: 25px;
   font-weight: bolder;
-  font-family: "Blackletter";
+  font-family: "Noto Serif SC";
   color: #000;
 }
 .logo-text {
@@ -2992,14 +2992,14 @@ hr {
   color: #000;
   font-weight: bolder;
   font-size: 22px;
-  font-family: "Blackletter";
+  font-family: "Noto Serif SC";
 }
 .site-description {
   margin-top: 5px;
   text-align: center;
   font-size: 18px;
   font-weight: bolder;
-  font-family: "Blackletter";
+  font-family: "Noto Serif SC";
   color: #000;
 }
 .site-overview {
