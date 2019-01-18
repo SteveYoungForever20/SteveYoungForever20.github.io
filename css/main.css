@@ -1835,7 +1835,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #b5ff9c;
+  background: #ffdfed;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3029,6 +3029,10 @@ hr {
 }
 .text-center {
   text-align: center;
+}
+.btn {
+  display: table-footer-group;
+  font-weight: bolder;
 }
 .footer-inner {
   text-align: center;
