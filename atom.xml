@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-01-18T03:44:08.494Z</updated>
+  <updated>2019-01-18T03:38:59.208Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>青春</title>
-    <link href="http://yoursite.com/2019/01/14/second-blog/"/>
-    <id>http://yoursite.com/2019/01/14/second-blog/</id>
-    <published>2019-01-13T16:00:00.000Z</published>
-    <updated>2019-01-18T03:44:08.494Z</updated>
-    
-    <content type="html"><![CDATA[<pre><code>前言：这是一篇关于青春的散文，在我的高中时代第一次读到这篇文章，它是那么优美和振奋人心，激励了无数人。</code></pre><a id="more"></a><pre><code>作者：塞缪尔.厄尔曼</code></pre><p>人生匆匆，青春不是易逝的一段。青春是一种永恒的心态。满脸红光，嘴唇红润，腿脚灵活，这并不是青春的全<br>部。真正的青春啊，它是一种坚强的意志，是一种想象力的高品位，是感情的充沛饱满，是生命之泉的清澈常新。<br>青春意味着勇敢战胜怯懦，青春意味着进取战胜安逸。年月的轮回就一定导致衰老吗？要知道呵，老态龙钟是因<br>为放弃了对理想的追求。无情岁月的流逝，留下了深深的皱纹，而热忱的丧失，会在深处打下烙印。焦虑、恐惧、<br>自卑，终会使心情沮丧，意志消亡。60也罢，16也罢，每个人的心田都应保持着不泯的意志，去探索新鲜的事<br>物，去追求人生乐趣。我们的心中都应有座无线电台，只要不断地接受来自人类和上帝的美感、希望、勇气和力<br>量，我们就会永葆青春。倘若你收起天线，使自己的心灵蒙上玩世不恭的霜雪和悲观厌世的冰凌，即使你年方<br>20，你已垂垂老矣；倘若你已经80高龄，临于辞世，若竖起天线去收听乐观进取的电波，你仍会青春焕发。</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;pre&gt;&lt;code&gt;前言：这是一篇关于青春的散文，在我的高中时代第一次读到这篇文章，它是那么优美和振奋人心，激励了无数人。
-&lt;/code&gt;&lt;/pre&gt;
-    
-    </summary>
-    
-    
-      <category term="live" scheme="http://yoursite.com/tags/live/"/>
-    
-  </entry>
   
   <entry>
     <title>测试文章</title>
@@ -49,6 +28,27 @@
     <summary type="html">
     
       &lt;pre&gt;&lt;code&gt;前言：本文是一篇测试文章，截取自马丁路德金的《I have a Dream》。
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+      <category term="live" scheme="http://yoursite.com/tags/live/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>青春</title>
+    <link href="http://yoursite.com/2019/01/14/second-blog/"/>
+    <id>http://yoursite.com/2019/01/14/second-blog/</id>
+    <published>2019-01-13T16:00:00.000Z</published>
+    <updated>2019-01-20T14:43:52.133Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>前言：这是一篇关于青春的散文，在我的高中时代第一次读到这篇文章，它是那么优美和振奋人心，激励了无数人。</code></pre><a id="more"></a><pre><code>作者：塞缪尔.厄尔曼</code></pre><p>人生匆匆，青春不是易逝的一段。青春是一种永恒的心态。满脸红光，嘴唇红润，腿脚<br>灵活，这并不是青春的全部。真正的青春啊，它是一种坚强的意志，是一种想象力的高<br>品位，是感情的充沛饱满，是生命之泉的清澈常新。青春意味着勇敢战胜怯懦，青春意<br>味着进取战胜安逸。年月的轮回就一定导致衰老吗？要知道呵，老态龙钟是因为放弃了<br>对理想的追求。无情岁月的流逝，留下了深深的皱纹，而热忱的丧失，会在深处打下烙<br>印。焦虑、恐惧、自卑，终会使心情沮丧，意志消亡。60也罢，16也罢，每个人的心田<br>都应保持着不泯的意志，去探索新鲜的事物，去追求人生乐趣。我们的心中都应有座无<br>线电台，只要不断地接受来自人类和上帝的美感、希望、勇气和力量，我们就会永葆青<br>春。倘若你收起天线，使自己的心灵蒙上玩世不恭的霜雪和悲观厌世的冰凌，即使你年<br>方20，你已垂垂老矣；倘若你已经80高龄，临于辞世，若竖起天线去收听乐观进取的电<br>波，你仍会青春焕发。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;前言：这是一篇关于青春的散文，在我的高中时代第一次读到这篇文章，它是那么优美和振奋人心，激励了无数人。
 &lt;/code&gt;&lt;/pre&gt;
     
     </summary>
